@@ -1,1 +1,2 @@
-Qualquer coisa aqui só que diferente novamente
+Qualquer coisa aqui sEque diferente novamente
+Adicionado cenario de falha, faltava um "THEN"
