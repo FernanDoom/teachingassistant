@@ -4,3 +4,5 @@ Adicionado cenario em que ha discrepancia
 "Cenario que nao ha discrepancia"
 Alteracao 1 como pede a questao 14 em discrepantes
 Alteracao 2 como pede a questao 14 em discrepantes
+pequeno ajuste no novo cenário de visualização de percentual de discrepância
+novo cenário de visualização de percentual de discrepância
